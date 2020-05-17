@@ -3,9 +3,7 @@
 
 ## Python Libraries Used - 
 
-* <strong> scrapy </strong>
-* <strong> requests_html </strong>
-
+* <strong> selenium </strong>
 
 ## How does it work - 
 * <strong>Clone this repository.
@@ -21,6 +19,7 @@
  <img src="https://github.com/kushagra219/Grainmart_Task/blob/master/output.PNG">
  
  ## Reference Links
+* https://selenium-python.readthedocs.io/ 
 * https://docs.scrapy.org/en/latest/
 * http://xpather.com/
 * https://docs.scrapy.org/en/latest/topics/selectors.html
