@@ -7,6 +7,9 @@
 
 ## How does it work - 
 * <strong>Clone this repository.
+* Make sure Mozilla Firefox browser is installed on your system. If not, download from https://www.mozilla.org/en-US/firefox/new/
+* Download the geckodriver.exe file from https://github.com/mozilla/geckodriver/releases and add the path location of geckodriver.exe 
+ to the PATH in Environment Variables.
 * Set up a python virtual environment and activate it in your terminal. (Refer - <a>https://docs.python.org/3/tutorial/venv.html</a>)
 * Open the repo in your terminal and run the following commands - </strong>
   ~~~ 
